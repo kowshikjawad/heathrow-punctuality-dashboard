@@ -1,0 +1,6 @@
+{
+  "description": "Source files for the UK CAA monthly punctuality statistics. Add the exact CAA file URLs here after inspecting the CAA punctuality statistics page. The pipeline downloads every URL verbatim to data/raw/ (FR-1).",
+  "attribution": "UK Civil Aviation Authority monthly punctuality statistics. See README for attribution and licensing terms.",
+  "base_url": "",
+  "files": []
+}

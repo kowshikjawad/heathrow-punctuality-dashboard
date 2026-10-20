@@ -1,0 +1,14 @@
+# Normalize line endings: text files use LF in the repo, CRLF on Windows checkout.
+* text=auto
+
+# Python / config / docs are text
+*.py text eol=lf
+*.sql text eol=lf
+*.md text eol=lf
+*.toml text eol=lf
+*.json text eol=lf
+*.yml text eol=lf
+Makefile text eol=lf
+
+# Binary
+*.pbix binary
